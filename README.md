@@ -11,4 +11,4 @@ Social media links:
 
 `Is this can be playable on mobile device?`
 
-- [ ] Yea, I will try to upload .apk file (sorry iphone users). If checkmark, it means that link for file is down bellow.
+- [ ] Yea, I will try to upload .apk file. If checkmark, it means that link for file is down bellow.
