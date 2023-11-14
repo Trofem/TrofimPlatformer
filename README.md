@@ -1,4 +1,4 @@
-# TrofimPlatformer
+## TrofimPlatformer
   > My first mind-blowing Unity game. 
 
 [![Gameplay video on youtube](https://img.youtube.com/vi/h-ImpFZkQRk/0.jpg)](https://www.youtube.com/watch?v=h-ImpFZkQRk)
@@ -8,7 +8,7 @@ Social media links:
 - [x] Project is finished I am not planning to update. Probably.
 - [ ] 
 
-![Q/A]
+## Q/A
 
 `Is this can be playable on mobile device?`
 
