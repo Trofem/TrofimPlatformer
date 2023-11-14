@@ -9,6 +9,11 @@ Social media links:
 
 ## Q/A
 
+`Can I use your code for anything?`
+
+Yes.
+
+
 `Is this can be playable on mobile device?`
 
-- [ ] Yea, I will try to upload .apk file. If checkmark, it means that link for file is down bellow.
+- [ ] Yea, I will try to upload .apk file. I was working a lot last time to do it. If checkmark, it means that link for file is down bellow.
