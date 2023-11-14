@@ -6,7 +6,6 @@
 Social media links:
 [Youtube](www.youtube.com/channel/UCrwIAtROZyvV8_J2JwmrYxg)
 - [x] Project is finished I am not planning to update. Probably.
-- [ ] 
 
 ## Q/A
 
