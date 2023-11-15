@@ -3,8 +3,6 @@
 
 [![Gameplay video on youtube](https://img.youtube.com/vi/h-ImpFZkQRk/0.jpg)](https://www.youtube.com/watch?v=h-ImpFZkQRk)
 
-Social media links:
-[Youtube](www.youtube.com/channel/UCrwIAtROZyvV8_J2JwmrYxg)
 - [x] Project is finished I am not planning to update. Probably.
 
 ## Q/A
