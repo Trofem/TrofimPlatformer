@@ -1,8 +1,8 @@
 ## TrofimPlatformer
   > My first mind-blowing Unity game. 
 
-[![Gameplay video on youtube](https://img.youtube.com/vi/h-ImpFZkQRk/0.jpg)](https://www.youtube.com/watch?v=h-ImpFZkQRk)
-
+[![Gameplay video on youtube](https://img.youtube.com/vi/S332Dsh2WvI/0.jpg)](https://youtu.be/S332Dsh2WvI)
+https://youtu.be/S332Dsh2WvI
 
 ## Q/A
 
